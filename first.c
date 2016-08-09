@@ -5,6 +5,7 @@
 
 int main(void)
 {
+printf("this is master");
 printf("not be stash in master");
 printf("this is bajie\n");
 	printf("hello world!\n");
