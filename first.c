@@ -4,6 +4,7 @@
 
 int main(void)
 {
-	printf("hello world!");
+	printf("hello world!\n");
+	printf("experimental tag\n");
 	return 0;
 }
