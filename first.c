@@ -4,7 +4,7 @@
 
 int main(void)
 {
-printf("experimental before merege");
+printf("not be stash in master");
 printf("this is bajie\n");
 	printf("hello world!\n");
 	printf("experimental tag\n");
