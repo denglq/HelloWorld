@@ -5,6 +5,7 @@
 
 int main(void)
 {
-	printf("hello world!");
+	printf("hello world!\n");
+	printf("master tag\n");
 	return 0;
 }
