@@ -10,5 +10,7 @@ int main(void)
 	printf("master tag 2\n");
 	printf("experimental tag\n");
 	printf("experimental tag 2\n");
+
+printf("master wrong\n");
 	return 0;
 }
