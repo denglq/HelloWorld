@@ -4,8 +4,7 @@
 
 int main(void)
 {
-printf("not be stash in master");
-printf("this is bajie\n");
+printf("git rever test");
 	printf("hello world!\n");
 	printf("experimental tag\n");
 	printf("experimental tag 2\n");
