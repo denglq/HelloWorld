@@ -16,4 +16,6 @@ printf("this is bajie\n");
 peaculia	checkout dev
 add 	checkout dev end
 	return 0;
+	ab
+	c
 }
