@@ -13,5 +13,6 @@ printf("this is bajie\n");
 	printf("master tag 2\n");
 	printf("experimental tag\n");
 	printf("experimental tag 2\n");
+	checkout dev
 	return 0;
 }
