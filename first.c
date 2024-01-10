@@ -9,7 +9,7 @@ int main(void)
 	printf("master tag\n");
 	printf("master tag 2\n");
 	printf("experimental tag\n");
-	abcde
+	abc
 	printf("experimental tag 2\n");
 	return 0;
 }
